@@ -1,0 +1,7 @@
+apiVersion: cache.rama.com/v1
+kind: Book
+metadata:
+  name: book-sample
+spec:
+  # Add fields here
+  size: 1
